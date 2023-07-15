@@ -37,13 +37,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=hakancqn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=hakancqn&icon=5&color=1)](https://visitcount.itsvg.in)
+##  Visit Count
+[![](https://visitcount.itsvg.in/api?id=hakancqn&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hakancqn) 
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://patreon.com/hakancqn) 
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/hakancqn) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
