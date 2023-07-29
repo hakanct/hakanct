@@ -2,13 +2,13 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white)](https://cb.run/YknB) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://cb.run/mf6w) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=flat-square&logo=Reddit&logoColor=white)](https://cb.run/iCt7) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=flat-square&logo=stack-overflow&logoColor=white)](https://cb.run/GBLG) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?&style=flat-square&logo=Twitch&logoColor=white)](https://cb.run/0zch) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://cb.run/6Fe2) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://cb.run/UXzM) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/t.hakancqn) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hakancqn) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=flat-square&logo=Reddit&logoColor=white)](https://reddit.com/user/hakancan_55) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21246858) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?&style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/hakancqn) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/t_hakancqn) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@@hakancqn) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) 
