@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/t.hakancqn) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/thakancqn) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hakancqn) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=flat-square&logo=Reddit&logoColor=white)](https://reddit.com/user/hakancan_55) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21246858) 
