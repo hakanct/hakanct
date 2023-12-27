@@ -22,7 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hakancqn&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancqn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hakancqn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
@@ -30,7 +30,7 @@
 
 
 ##  Visit Count
-[![](https://visitcount.itsvg.in/api?id=hakancqn&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hakancqn&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
 
 <!-- ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hakancqn) 
