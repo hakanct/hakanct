@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakancqn) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=flat-square&logo=Reddit&logoColor=white)](https://reddit.com/user/hakancan_55) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21246858) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/t_hakancqn) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/thakancqn) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) 
