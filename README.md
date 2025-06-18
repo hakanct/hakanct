@@ -19,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hakanct&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/hakancantoU)
