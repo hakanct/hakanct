@@ -1,4 +1,3 @@
-# 💫 About Me:
 A junior developer who currently tries different things and develops hobby projects.
 
 ## 🌐 Socials:
