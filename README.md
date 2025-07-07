@@ -21,7 +21,6 @@ A junior developer who currently tries different things and develops hobby proje
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hakanct&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 -->
-![](https://komarev.com/ghpvc/?username=hakanct&style=for-the-badge)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/hakanct)
