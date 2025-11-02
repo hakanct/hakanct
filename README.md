@@ -9,9 +9,9 @@ A junior developer who currently tries different things and develops hobby proje
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:tonoglu.hakancan@gmail.com)
 
 # 💻 Tech Stack:
-![OSs](https://skillicons.dev/icons?i=arch,windows)<br/>
+<!-- ![OSs](https://skillicons.dev/icons?i=arch,ubuntu,windows)<br/> -->
 ![My Skills](https://skillicons.dev/icons?i=php,laravel)<br/>
-![My Skills](https://skillicons.dev/icons?i=html,js,jquery,css,tailwind,bootstrap&perline=3)
+![My Skills](https://skillicons.dev/icons?i=html,js,css,tailwind,bootstrap&perline=3)
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakanct&theme=transparent&show_icons=true&hide_border=true&count_private=true)<br/>
