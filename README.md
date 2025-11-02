@@ -9,7 +9,7 @@ A junior developer who currently tries different things and develops hobby proje
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:tonoglu.hakancan@gmail.com)
 
 # 💻 Tech Stack:
-![OSs](https://skillicons.dev/icons?i=arch)
+![OSs](https://skillicons.dev/icons?i=arch,windows)<br/>
 ![My Skills](https://skillicons.dev/icons?i=php,laravel)<br/>
 ![My Skills](https://skillicons.dev/icons?i=html,js,jquery,css,tailwind,bootstrap&perline=3)
 
@@ -24,4 +24,4 @@ A junior developer who currently tries different things and develops hobby proje
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/hakanct)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/hakanct)
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hakanct)
